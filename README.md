@@ -11,7 +11,6 @@
 
 ```ts
 // Programmatically interact with the Hub
-// @huggingface/hub
 
 await createRepo({
   repo: { type: "model", name: "my-user/nlp-model" },
